@@ -1,0 +1,3 @@
+/home/banbolan/StorageFiles/LinuxStoragePath/notes/codes/testrc/build/CMakeFiles/read_file.dir
+/home/banbolan/StorageFiles/LinuxStoragePath/notes/codes/testrc/build/CMakeFiles/edit_cache.dir
+/home/banbolan/StorageFiles/LinuxStoragePath/notes/codes/testrc/build/CMakeFiles/rebuild_cache.dir
